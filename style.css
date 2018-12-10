@@ -1,0 +1,26 @@
+html{
+		
+		height:1000vh;
+	}
+	body{
+		height: auto;
+		font-family: 'Arial', sans-serif;
+		background-color: lightblue;
+	}
+	div#wrapper{
+		position: relative;
+		margin:0 auto;
+		max-width: 1000px;
+		background-color: lightblue;
+		padding:30px;
+	}
+	section{
+		height:100px;
+		width:100%;
+		background-color: lightblue;
+		overflow-y:auto;
+	}
+	header{
+		padding-bottom: 25px;
+	}
+	
